@@ -26,7 +26,7 @@ cd into the directory in terminal, then run:
 
 Then test in python to validate that the binaries and the wrapper are working:
 ```
->>> import import nlp4j_wrapper
+>>> import nlp4j_wrapper
 >>> BINARIES_PATH=/absolute/path/to/bin
 >>> nlp4j_wrapper.version(BINARIES_PATH)
 
