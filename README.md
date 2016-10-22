@@ -9,7 +9,7 @@ I wrote it because for a current project that I'm working on is heavily python-b
 having a python wrapper makes my life slight easier. 
 
 Also, a nice thing about NLP4J is that their POS tagger is trained on some clinical notes/texts, so if you are working on clinical NLP,
-it's a nice alternative to cTakes. For more details on their models, [this page](https://emorynlp.github.io/nlp4j/supplements/english.html).
+it's a nice alternative to cTAKES. For more details on their models, [this page](https://emorynlp.github.io/nlp4j/supplements/english.html).
 
 
 Dependencies
