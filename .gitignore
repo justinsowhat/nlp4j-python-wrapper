@@ -1,0 +1,8 @@
+*.pyc
+.idea
+appassembler
+test.py
+dist
+build
+NLP4J_Wrapper.egg-info
+.DS_Store
