@@ -73,7 +73,7 @@ input_file.txt
 ```
 For more details on decoding parameters as well as the config file, please go to [this page](https://emorynlp.github.io/nlp4j/quickstart/decode.html).
 
-Please note that all the paths in the config file as well as arguments have to absolute.
+Please note that all the paths in the config file and arguments have to absolute.
 
 License
 -------
