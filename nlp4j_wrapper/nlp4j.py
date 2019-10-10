@@ -6,7 +6,9 @@ def version(path_to_bin):
     args = (os.path.join(path_to_bin, 'version'))
     popen = subprocess.Popen(args, stdout=subprocess.PIPE)
     popen.wait()
-    print(popen.stdout.read())
+    version_str = popen.stdout.read().decode("utf-8")
+    for line in version_str.split("\n"):
+        print(line)
 
 
 def train(path_to_bin, config_file, train_path, mode, output_model="", previous_model="", dev_path="", train_ext="*",
