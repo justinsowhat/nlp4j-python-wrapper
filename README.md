@@ -6,10 +6,9 @@ Introduction
 This is a python wrapper for the [common-line tools](https://emorynlp.github.io/nlp4j/quickstart/install.html) of [NLP4J](https://emorynlp.github.io/nlp4j/).
  
 I wrote it because for a current project that I'm working on is heavily python-based, and just to keep my codes and pipeline together,
-having a python wrapper makes my life slight easier. 
+having a python wrapper makes my life slightly easier. 
 
-Also, a nice thing about NLP4J is that their POS tagger is trained on some clinical notes/texts, so if you are working on clinical NLP,
-it's a nice alternative to cTAKES. For more details on their models, [this page](https://emorynlp.github.io/nlp4j/supplements/english.html).
+Also, a nice thing about NLP4J is that their POS tagger is trained on some clinical notes/texts, so if you are working on clinical NLP, it's a nice alternative to cTAKES. For more details on their models, [this page](https://emorynlp.github.io/nlp4j/supplements/english.html).
 
 
 Dependencies
@@ -78,7 +77,7 @@ Please note that all the paths in the config file and arguments have to absolute
 License
 -------
 ####MIT 
-Copyright (c) 2016 Justin So
+Copyright (c) 2016-2019 Justin So
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
